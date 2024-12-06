@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building a chatbot to handle text queries related to Acts, Rules, and Regulations in the mining industry.<br>🌱 Learning frameworks in ML, DL, Computer Vision, and DSA.<br>💬 Ask me about Data Science, Machine Learning, and DSA topics.<br>📫 Reach me at: robertofrederic0414@gmail.com<br>⚡ Fun fact: I love watching web series and exploring new things.
+🔭 Currently building a chatbot to handle text queries related to Acts, Rules, and Regulations in the mining industry.<br>🌱 Learning frameworks in ML, DL, Computer Vision.<br>💬 Ask me about Data Science, Machine Learning, and OOPS Concepts.<br>📫 Reach me at: robertofrederic0414@gmail.com<br>⚡ Fun fact: I love watching web series and exploring new things.
 
 
 ## 🌐 Socials:
